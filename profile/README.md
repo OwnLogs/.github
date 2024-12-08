@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 We are a non-profit oranisation focused on user experience and efficiency.
+
 We are currently building and improvind a main project : [OwnLogs](https://github.com/OwnLogs/ownlogs).
+
 This project is a powerful platform designed to help you log, analyze, and visualize your data with ease. It offers enterprise-grade features and is completely free and open source. OwnLogs is Docker-powered, making it easy to deploy and manage.
 
 <!--
